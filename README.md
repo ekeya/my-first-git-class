@@ -1,1 +1,22 @@
-# my-first-git-class
+## hagital cloud developer program;git lesson 101  
+## download git bash  
+- https://git-scm.com/downloads
+-  ##configure git bash
+- git config --global user "ekeya"
+- git config --global user email "davex_consult@yahoo.com"
+- ## prepare working environment
+- mkdir website "this helps us to create a directory"
+- cd website " this helps to enter into the directory"
+- git init " this helps to initialize the directory"
+- git touch " this helps to create html file"
+ - vim index.html " this helps to edit the html file"
+ - wq " this is used to save and exit"
+- ## clone your repo
+-  git remote add origin(url)" this is the url from the project repo"
+- ## push to github
+- git add index.html " this is used to push from the local environment to the github"
+- git commit -m" this is used to take snapshot of of the file"
+-  git push origin master
+- 
+- 
+- 
